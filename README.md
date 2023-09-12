@@ -17,8 +17,8 @@
   
 - ☏ Mobile no. - **9128984478**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/aman-kumar-9050b3203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-9050b3203/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013864566563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013864566563" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aman__kr.09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aman__kr.09/" height="30" width="40" /></a>
