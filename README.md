@@ -6,7 +6,7 @@
 <p align="center">
  
 <a href="https://linkedin.com/in/Aman-kumar-1999" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.facebook.com/profile.php?id=100013864566563" target="_blank"><img alt="" src="[https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" style="vertical-align:center" /></a>
+
 <a href="https://instagram.com/Aman-kumar-1999" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 
