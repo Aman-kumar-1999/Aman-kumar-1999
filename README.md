@@ -24,22 +24,23 @@
 
 <img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align = right height = 200 width = 300/>
 
-- 🔭 I’m currently working on  **Backend Development** with java
+- 🔭 I’m currently working on  **Full-Stack Development** with java and react js
 - :neutral_face: I **love**  programming and tinkering with new technologies
-- 🌱 I’m currently Working with **Spring Boot, Azure**
+- 🌱 I’m currently Working with **Java, Spring Boot, Microservices, React js, AWS & Azure**
 - 🎓 I’m currently learning Batch Processing, Caching mechanisms and search optimizations
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Always looking for new challenges
 - 😄 Pronouns: **He/Him** 
-- :bulb: I write occasionally on [Medium](https://medium.com/@Aman-kumar-1999) regarding tech and web development 🌐👨🏻‍💻
+<!--- - :bulb: I write occasionally on [Medium](https://medium.com/@Aman-kumar-1999) regarding tech and web development 🌐👨🏻‍💻 -->
 - 🏆 Microsoft Azure Certified Developer Associate.
-- 🌐 Visit my [porfolio website](https://Aman-kumar-1999.github.io/) for complete background and contact.
+<!--- - 🌐 Visit my [porfolio website](https://Aman-kumar-1999.github.io/) for complete background and contact.-->
 
 ## 🔨 Languages and Tools:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" height=50 width=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" height=50 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="apache" height=50 width=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height=50 width=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height=50 width=50 />
