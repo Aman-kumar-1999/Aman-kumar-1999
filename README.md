@@ -14,7 +14,7 @@
 <br>
 <div align ="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-Amankumar1999-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-kumar-9050b3203/)](https://www.linkedin.com/in/aman-kumar-9050b3203/)
+[![Linkedin Badge](https://img.shields.io/badge/-aman_kumar_9050b3203-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-kumar-9050b3203/)](https://www.linkedin.com/in/aman-kumar-9050b3203/)
 [![Instagram Badge](https://img.shields.io/badge/-@aman__kr.09-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/aman__kr.09/)](https://www.linkedin.com/in/aman__kr.09/)
 [![Gmail Badge](https://img.shields.io/badge/-amankumar.rcm19990923@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amankumar.rcm19990923@gmail.com)](mailto:amankumar.rcm19990923@gmail.com)
 </div>
