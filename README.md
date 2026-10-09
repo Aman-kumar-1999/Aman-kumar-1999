@@ -26,9 +26,9 @@
 
 - 🔭 I’m currently working on  **Full-Stack Development** with java and react js
 - :neutral_face: I **love**  programming and tinkering with new technologies
-- 🌱 I’m currently Working with **Java, Spring Boot, Microservices, React js, AWS & Azure**
-- 🎓 I’m currently learning Batch Processing, Caching mechanisms and search optimizations
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently working with **Java, Spring Boot, Microservices, React JS, AWS & Azure**
+- 🎓 I’m currently learning Batch Processing, Caching mechanisms, and search optimizations
+- 💬 Ask me about anything; I am happy to help
 - ⚡ Always looking for new challenges
 - 😄 Pronouns: **He/Him** 
 <!--- - :bulb: I write occasionally on [Medium](https://medium.com/@Aman-kumar-1999) regarding tech and web development 🌐👨🏻‍💻 -->
